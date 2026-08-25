@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
