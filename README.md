@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
