@@ -1,6 +1,6 @@
 import java.util.*;
 class StockSpanner {
-    Stack<int[]> stack;
+    private Stack<int[]> stack;
     public StockSpanner() {
         stack = new Stack<>();
     }
