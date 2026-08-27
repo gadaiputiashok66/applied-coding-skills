@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -44,6 +45,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/gadaiputiashok66/applied-coding-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
